@@ -1,4 +1,4 @@
-# Sensors-ata-to-Azure
+# Sensors Data to Azure
 The purpose of this project is to send and analyse data using Azure throught SIMATIC IOT2000 Hub. The data contains signals from different sensors ( Temperature, Humidity, gas leak... )
 The work has been done using Node-Red and Javascript.
 The contract was with the company Nordal. https://nordal.kz/en/
